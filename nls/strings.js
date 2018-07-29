@@ -31,6 +31,7 @@ define(function (require, exports, module) {
         "it": true,
         "de": true,
         "es": true,
-        "zh-cn": true
+        "zh-cn": true,
+        "ja": true
     };
 });
