@@ -20,7 +20,7 @@
         "zh-cn": {
             "description": "从已有的模板列表中插入HTML",
             "title": "HTML模板"
-        }
+        },
         "ja": {
             "title": "HTMLテンプレート集",
             "description": "HTMLテンプレート・フレームワークをBracketsから簡単に利用できます。HTML5、XHTML、Bootstrap、Foundation５など様々なテンプレートを利用することができます。"
