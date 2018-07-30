@@ -24,5 +24,6 @@
         "ja": {
             "title": "HTMLテンプレート集",
             "description": "HTMLテンプレート・フレームワークをBracketsから簡単に利用できます。HTML5、XHTML、Bootstrap、Foundation５など様々なテンプレートを利用することができます。"
+        }
     }
 }
