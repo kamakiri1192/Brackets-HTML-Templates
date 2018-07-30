@@ -24,7 +24,7 @@
 /*global define, brackets, $ */
 
 define({
-    'MENU_COMMAND': 'HTMLテンプレート...',
+    'MENU_COMMAND': 'HTMLテンプレートを開く',
     'TITLE_H1': 'HTMLテンプレート',
     'NO_FILE_OPEN_ERROR': 'ファイルが開かれていません。 HTMLテンプレートを実行する前にファイルを開いてください。',
     'TITLE_H4': 'テンプレートを選択してください',
@@ -32,6 +32,6 @@ define({
     'SECTION_DOCTYPE': 'HTMLテンプレート',
     'SELECT_LABEL': '選択...',
     'SECTION_TEMPLATES': 'フレームワーク テンプレート',
-    'SECTION_TEMPLATES_DESC': 'これらのテンプレートは、フレームワークで提供されているHTMLに基づいており、若干の調整が必要です。',
+    'SECTION_TEMPLATES_DESC': 'これらのテンプレートは、フレームワークで提供されているHTMLに基づいており、若干の調整が必要となります。',
     'CANCEL_BUTTON': '閉じる'
 });
