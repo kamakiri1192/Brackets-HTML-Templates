@@ -74,6 +74,9 @@ define(function (require, exports, module) {
             case 'html5':
                 template = require('text!html/html5.html');
                 break;
+            case 'html5-japanese':
+                template = require('text!html/html5-japanese.html');
+                break;
             case 'html4loose':
                 template = require('text!html/html4loose.html');
                 break;
